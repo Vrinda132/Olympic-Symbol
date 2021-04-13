@@ -1,0 +1,12 @@
+.body_background {
+	background-image: url("https://c8.alamy.com/comp/TWWJ94/back-to-school-supplies-background-pencils-vector-illustration-TWWJ94.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+#myCanvas{
+    border-width: 10px;
+    border-style: ridge;
+    background-color: white;
+    }
+    
